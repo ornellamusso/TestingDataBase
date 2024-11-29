@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="primaryColorLight">#E2C5A7</color>
+    <color name="primaryColorLight">#FF5722</color>
     <color name="primaryColor">#824E17</color>
     <color name="primaryColorVariant">#FFC107</color>
     <color name="secondaryColor">#E2C5A7</color>
@@ -11,5 +11,5 @@
 
     <color name="background">#F1F4F9</color>
 
-    <color name="delete">#FF5722</color>
+    <color name="delete">#E2C5A7</color>
 </resources>
